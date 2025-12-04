@@ -1,0 +1,83 @@
+/*p {
+  font-weight: bold;
+  color: mediumpurple;
+}
+*/
+
+body {
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  background-color: lightslategray;
+  line-height: 125%;
+  padding: 15px;
+}
+
+h1 {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: x-large;
+}
+
+li {
+  font-size: small;
+  color: lightgray;
+}
+
+h2 {
+  color: white;
+  font-size: medium;
+  font-weight: normal;
+}
+
+p {
+  font-size: medium;
+  color: lightgray;
+}
+
+#tagline p {
+  font-style: italic;
+  font-family: Georgia, Times, serif;
+}
+
+#navigation a {
+  text-decoration: none;
+}
+
+#ratcorp p {
+  line-height: 150%;
+}
+
+h1, h2, h3 {
+  background-color: mediumpurple;
+}
+
+em {
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+a {
+  font-weight: bold;
+}
+
+a:link {
+  color:darkslategray;
+}
+
+a:visited{
+  color: darkslategray;
+}
+
+a:hover {
+  text-decoration: none;
+  color: white;
+  background-color: purple;
+}
+
+a:active {
+  color: white;
+  background-color: purple;
+}
+
+.radical {
+  color: antiquewhite;
+  letter-spacing: 0.05em;
+}
